@@ -39,4 +39,14 @@
         app:backgroundTint="#000000"
         android:textColor="#FFFFFF" />
 
+    <Button
+        android:id="@+id/buttonRandom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="С кем познакомиться?"
+        android:textSize="18sp"
+        android:padding="3dp"
+        android:layout_marginTop="360dp"
+        app:backgroundTint="#000000"
+        android:textColor="#FFFFFF" />
 </LinearLayout>
